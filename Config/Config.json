@@ -1,0 +1,132 @@
+{
+    "SourceIPAddress": "192.168.44.67",
+    "Servers": [
+        {
+            "Name": "NOVFLSSRVDEMO",
+            "FormFlexPart": "Fls",
+            "IPAddress": "192.168.44.66",
+            "InstallPath": "C:\\Program Files (x86)\\FormFlex System",
+            "IncludedInUpdate": true,
+            "PackageName" : "NightlyBuild",
+            "Domain" : "",
+            "UserName" : "Administrator",
+            "Password" : "QA321ik!"
+        },
+	{
+            "Name": "KALFB1FLS01",
+            "FormFlexPart": "Fls",
+            "IPAddress": "192.168.44.85",
+            "InstallPath": "C:\\Program Files (x86)\\FormFlex System",
+            "IncludedInUpdate": true,
+            "PackageName" : "NightlyBuild",
+            "Domain" : "",
+            "UserName" : "Administrator",
+            "Password" : "QA321ik!"
+        },
+        {
+            "Name": "KALEB1FLS01",
+            "FormFlexPart": "Fls",
+            "IPAddress": "192.168.44.97",
+            "InstallPath": "C:\\Program Files (x86)\\FormFlex System",
+            "IncludedInUpdate": true,
+            "PackageName" : "NightlyBuild",
+            "Domain" : "",
+            "UserName" : "Administrator",
+            "Password" : "QA321ik!"
+        },
+	{
+            "Name": "KALFC1FLS01",
+            "FormFlexPart": "Fls",
+            "IPAddress": "192.168.44.87",
+            "InstallPath": "C:\\Program Files (x86)\\FormFlex System",
+            "IncludedInUpdate": true,
+            "PackageName" : "NightlyBuild",
+            "Domain" : "",
+            "UserName" : "Administrator",
+            "Password" : "QA321ik!"
+        },
+        {
+            "Name": "KALFD1FLS01",
+            "FormFlexPart": "Fls",
+            "IPAddress": "192.168.44.88",
+            "InstallPath": "C:\\Program Files (x86)\\FormFlex System",
+            "IncludedInUpdate": true,
+            "PackageName" : "NightlyBuild",
+            "Domain" : "",
+            "UserName" : "Administrator",
+            "Password" : "QA321ik!"
+        },
+	{
+            "Name": "NOVFASSRVDEMO",
+            "FormFlexPart": "Fas",
+            "IPAddress": "192.168.44.67",
+            "InstallPath": "C:\\Program Files (x86)\\FormFlex System",
+            "IncludedInUpdate": true,
+            "PackageName" : "NightlyBuild",
+            "Domain" : "",
+            "UserName" : "Administrator",
+            "Password" : "QA321ik!"
+            
+        },
+        {
+            "Name": "NOVFASSRVDEMO",
+            "FormFlexPart": "Lab",
+            "IPAddress": "192.168.44.67",
+            "InstallPath": "C:\\Program Files (x86)\\FormFlex System",
+            "IncludedInUpdate": true,
+            "PackageName" : "NightlyBuild",
+            "Domain" : "",
+            "UserName" : "Administrator",
+            "Password" : "QA321ik!"
+
+        },
+        {
+            "Name": "NOVFASSRVDEMO",
+            "FormFlexPart": "Rew",
+            "IPAddress": "192.168.44.67",
+            "InstallPath": "C:\\Program Files (x86)\\FormFlex System",
+            "IncludedInUpdate": true,
+            "PackageName" : "NightlyBuild",
+            "Domain" : "",
+            "UserName" : "Administrator",
+            "Password" : "QA321ik!"
+
+        },
+        {
+            "Name": "NOVFASSRVDEMO",
+            "FormFlexPart": "Sim",
+            "IPAddress": "192.168.44.77",
+            "InstallPath": "C:\\inetpub\\wwwroot",
+            "IncludedInUpdate": true,
+            "PackageName" : "NightlyBuild",
+            "Domain" : "",
+            "UserName" : "afadmin",
+            "Password" : "QA321ik!"
+
+        },
+        {
+            "Name": "NOVDBO1",
+            "FormFlexPart": "Rdm",
+            "IPAddress": "192.168.44.83",
+            "InstallPath": "C:\\Program Files (x86)\\FormFlex System",
+            "IncludedInUpdate": false,
+            "PackageName" : "NightlyBuild",
+            "Domain" : "",
+            "UserName" : "Administrator",
+            "Password" : "QA321ik!"
+
+        },
+        {
+            "Name": "NOVDBO1",
+            "FormFlexPart": "Etl",
+            "IPAddress": "192.168.44.83",
+            "InstallPath": "C:\\Program Files (x86)\\FormFlex System",
+            "IncludedInUpdate": false,
+            "PackageName" : "NightlyBuild",
+            "Domain" : "",
+            "UserName" : "Administrator",
+            "Password" : "QA321ik!"
+
+        }
+    ]
+}
